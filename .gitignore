@@ -1,0 +1,5 @@
+.idea
+dal
+dist/
+.DS_Store
+.goreleaser.yaml

@@ -1,0 +1,8 @@
+Version api/1.0
+Name demo
+POST /
+Return {
+    Content {
+        "'hello world'"
+    }
+}
